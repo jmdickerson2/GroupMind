@@ -1,0 +1,20 @@
+User
+	first_name
+	last_name
+	email
+	password
+	background
+	expertise
+	my_help
+
+Course
+	title
+	daily_title
+	daily_instructions
+	daily_homework
+	daily_video
+
+Payment
+	price
+	course_link
+
