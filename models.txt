@@ -1,20 +1,48 @@
-User
-	first_name
-	last_name
-	email
-	password
+Teacher
+	teacher_name
+	teacher_pic
+	teacher_email
+	teacher_password
 	background
 	expertise
 	my_help
 
+Student
+	student_name
+	student_email
+	student_password
+
 Course
-	title
+	course_title
+	course_summary
+	summary_video
 	daily_title
 	daily_instructions
 	daily_homework
 	daily_video
 
-Payment
-	price
-	course_link
+Dashboard
+	course_title
+	message_title
+	teacher_name
+	teacher_pic
+	
+Messages
+	message_title
+	message
+	student_name
+	student_pic
+	teacher_name
+	teacher_pic
+
+Landing
+	course_title
+	course_summary
+	summary_video
+	teacher_name
+	teacher_pic
+
+
+
+
 
